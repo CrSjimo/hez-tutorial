@@ -68,3 +68,20 @@
 |o吾欲其之似此|Oh I want something just like this|
 |o吾欲其之似此|Oh I want something just like this|
 |o吾欲其之似此|Oh I want something just like this|
+
+|生词|词性|词义|
+|-|-|-|
+|传说|名|legend|
+|神话|名|myth|
+|金|名|gold|
+|神赐|名|gift|
+|控及|名|control (as noun)|
+|拳|名|fist|
+|列|名|list|
+|险|名|risk|
+|过人类|名|superhuman|
+|过人英者|名|superhero|
+|吻|动|kiss|
+|通规|名|testament|
+|（日，月）蚀|名|eclipse|
+|布展|名|unroll|

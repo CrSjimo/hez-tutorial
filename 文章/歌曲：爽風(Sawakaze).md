@@ -40,3 +40,25 @@
 |若尔微笑向吾|ほほえんでくれたなら|
 |若尔返执吾|にぎりかえしてくれたら|
 |吾持引尔的手去向前|僕はキミの手を引いてゆく|
+
+|生词|词性|词义|
+|-|-|-|
+|爽|饰|fresh, cool|
+|划扬|动|turn(the page of a book, etc.)|
+|迸飞|动|pop out, break out|
+|万花筒|名|kaleidoscope|
+|拙谨|饰|awkward|
+|深呼吸|动|deep breathe|
+|裹|动|wrap|
+|柔|饰|soft|
+|紧紧|副|tightly|
+|持介及|动性组词|reach to|
+|微笑|动|smile|
+|俄一瞬|副|suddenly|
+|涡卷|名|swirl|
+|羞耻|饰|embarrassing|
+|marquye|名【外】|marquee|
+|复苏|动|revive|
+|天真|饰|innocent|
+|不止|饰|endless|
+|耀|动|glow|
