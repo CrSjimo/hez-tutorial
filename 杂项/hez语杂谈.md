@@ -30,7 +30,7 @@ hez语主要来自于hio语。事实上，hez语里很多词汇（特别是虚�
 |吾欲阅此漫画|我（想要）读这本漫画|
 |吾阅受此漫画|我（被）这本漫画读|
 |吾可阅此漫画|我（能够）读这本漫画|
-|吾阅可受此漫画|我（能够被）这本漫画读
+|吾阅可受此漫画|我（能够被）这本漫画读|
 
 汉语中括号里的成分都是翻译时添加的单词。可见，在hez语里可以对动词添加屈折后缀（和前缀）来改变时态，语态和情态。
 
@@ -43,7 +43,7 @@ hez语主要来自于hio语。事实上，hez语里很多词汇（特别是虚�
 |读音|含义|
 |-|-|
 |deli quyoru|very responsible|
-|dà zhàng·fu|<del>big husband</del> great man |
+|dà zhàng·fu|<del>big husband</del> great man (?)|
 |daijōbu|fine|
 
 <del>因为我是大丈夫，所以没关系，我能负起责任。</del>
@@ -62,3 +62,32 @@ hez语主要来自于hio语。事实上，hez语里很多词汇（特别是虚�
 <del>氯化钡可与硫酸（发生）置换反应。</del>
 
 在hez语中，“置换”是“transposition”的意思，其实也就是“metathesis”。“displacement reaction”在hez语里叫“易位反应”
+
+**远见**
+|读音|含义|
+|-|-|
+|ryiozan|television|
+|yuǎnjiàn|insight|
+
+<del>远tele, 见vision</del>
+
+# hez语和hio语有什么区别
+
+<del>基本上没什么区别。</del>
+
+<del>毕竟凭空造一门语言非常难。</del>
+
+|hez|zh|
+|-|-|
+|吾阅此漫画|Mi lid zig manga|
+|吾阅了此漫画|Mi lidpe zig manga|
+|吾已阅此漫画|Mi dei lid zig manga|
+|吾当阅此漫画|Mi dye lid zig manga|
+|吾已阅了此漫画|Mi|
+|吾上手阅此漫画|我（打算）读这本漫画|
+|吾当上手阅此漫画|我（马上就去）读这本漫画|
+|吾阅将此漫画|我（将要）读这本漫画|
+|吾欲阅此漫画|我（想要）读这本漫画|
+|吾阅受此漫画|我（被）这本漫画读|
+|吾可阅此漫画|我（能够）读这本漫画|
+|吾阅可受此漫画|我（能够被）这本漫画读|
