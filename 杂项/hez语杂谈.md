@@ -58,18 +58,30 @@ hez语主要来自于hio语。事实上，hez语里很多词汇（特别是虚�
 |-|-|
 |zeyfun henryan|metathesis reaction|
 |zhìhuàn fǎnyìng|displacement reaction|
+|Chikan han'nō|substitution reaction|
 
-<del>氯化钡可与硫酸（发生）置换反应。</del>
+氯化钡和硫酸为持置换反应能够
 
-在hez语中，“置换”是“transposition”的意思，其实也就是“metathesis”。“displacement reaction”在hez语里叫“易位反应”
+锌与硫酸可以发生置换反应（锌和硫酸为持「置换反应」能够）
 
-**远见**
+<span lang="ja">メタンは塩素との置換反応が可能</span>（甲一目烃和氯气为持「置换反应」能够）
+
+在hez语中，“置换”是“transposition”的意思，也就是“metathesis”。“displacement reaction”在hez语里叫“易位反应”，“substitution reaction”在hez语里叫“代换反应”
+
+**<ruby><rb>远见</rb><rt>T V</rt></ruby>**
+
 |读音|含义|
 |-|-|
 |ryiozan|television|
 |yuǎnjiàn|insight|
 
 <del>远tele, 见vision</del>
+
+**适者生存**
+
+**<del>Survival of the adapter</del> Survival of the fittest**
+
+（切忌望文生义<del>虽然“适者”就是adapter</del>）
 
 # hez语和hio语有什么区别
 
