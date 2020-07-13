@@ -60,5 +60,5 @@
 |marquye|名||marquee|
 |复苏|动|nepsuk|revive|
 |天真|饰|tyanzen|innocent|
-|不止|饰|duzdye|endless|
+|不止|饰|dūzdye|endless|
 |耀|动|xyo|glow|
