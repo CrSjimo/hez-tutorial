@@ -4,10 +4,10 @@ hez口语使用SOV顺序，论元助词如下：
 
 |助词|用途|
 |-|-|
-|<ruby><rb>兮</rb><rt>ria</rt></ruby>|宾格助词|
-|rixo|与格助词|
-|riximada|补格助词|
-|rixude|反身助词|
+|<ruby><rb>兮</rb><rt>ïa</rt></ruby>|宾格助词|
+|ïxo|与格助词|
+|ïximada|补格助词|
+|ïxude|反身助词|
 |<ruby><rb>焉</rb><rt>rie</rt></ruby>|同位助词|
 
 句型主干：
@@ -41,11 +41,11 @@ hez口语使用SOV顺序，论元助词如下：
 
 例如：
 
-那时于，吾持吾的友人焉立木兮善riximada吾自rixude坚定是谓。
+那时于，吾持吾的友人焉立木兮善ïximada吾自ïxude坚定是谓。
 
 At that time, I myself considered my friend Lyemut as a good person firmly.
 
-然而，兹出事之后之其持吾兮彼rixo怒兮付之riximada使。
+然而，兹出事之后之其持吾兮彼ïxo怒兮付之ïximada使。
 
 However, what happened later made me angry with him.
 
@@ -66,9 +66,9 @@ As a conscience person, I don't understand why he did that.
 |口语|释义|
 |-|-|
 |DNA持生物的遗传物质为。|DNA是生物的遗传物质。|
-|吾持生物兮善riximada学。|我生物学得很好。|
+|吾持生物兮善ïximada学。|我生物学得很好。|
 |薛墨，吾的友人焉持hentai为。|我的朋友薛墨是个绅士。|
 |吾极善友人持，薛墨兮hentai焉为。|我最好的朋友是老绅士薛墨。|
 |彼持书本兮18时于当阅。|他18点的时候在看书。|
 |吾持此兮初等二年自已知。|我小学二年级的时候就知道这件事了。|
-|吾持100元兮尔与明日无雨之其rixo赌|我和你赌100块钱明天不会下雨|
+|吾持100元兮尔与明日无雨之其ïxo赌|我和你赌100块钱明天不会下雨|
