@@ -6,7 +6,7 @@ Mi ze nes nyabik ïuqize betlu.
 
 【游戏者的名】？
 [ïuqize'd tido]?
-***PLAYERNAME?***
+***[PLAYERNAME?]***
 
 So。注意兮付xite。彼持较高境界至已达及。彼持吾们的思想读可。
 So. Juï ïa buexite. Tat ze gen vieto gioka do deitigalu. Tat ze mimen'd seso ïa lidna.
@@ -24,8 +24,8 @@ Mi ze zig ïuqize sиo. Tat holuhavye zom. Tat dūz pesen pantoïepye.
 Tat ze mimen'd seso tas mio dyalid, tos ze nyaman zaren de monji so de.
 ***It is reading our thoughts as though they were words on a screen.***
 
-彼持游戏之梦奥是于之时于，其方以多数事物兮想象。
-Tat ze ïuqi de juynto dephavye za de ta za, tos dyu ïo deli ro ïa sojon.
+彼持游戏之梦奥是中之时于，其方以多数事物兮想象。
+Tat ze ïuqi de juynto dephavye zaren de ta za, tos dyu ïo deli ro ïa sojon.
 ***That is how it chooses to imagine many things, when it is deep in the dream of a game.***
 
 文字持素晴互面成ïximada持。甚伸缩自如so矣。画面后之现实注视与较低恐惧的so矣。
@@ -60,20 +60,36 @@ So，彼持极高境界至不已达及。Siad所来，彼持人生之长梦，�
 So, tat ze zuye vieto gioka do dūzdeitigalu. Siad ve la, tat ze rensen de delilen juynto, dūso ïuqi de lidelen juynto kanyiäqiv.
 ***No. It has not yet achieved the highest level. That, it must achieve in the long dream of life, not the short dream of a game.***
 
+彼持吾们持其好之其知欤？宇宙持仁爱so矣之其知欤？
+Tat ze mimen ze tos sиo de tos node sūs? Üjo ze niÿe so sae de tos node sūs?
 ***Does it know that we love it? That the universe is kind?***
 
+时々，彼的思想之聒噪介过，彼持宇宙兮闻及so矣。
+Ta-tado, tat'd seso de galanya te duru, tat ze üjo ïa milu so sae.
 ***Sometimes, through the noise of its thoughts, it hears the universe, yes.***
 
+而彼悲之时间兮其长梦中得有。彼持无夏之世界创造，黑日下战栗。彼持彼的悲然创造sis兮现实ïximada谓。
+Fo tat nalio de tado ïa tos delilen juynto zaren ïode. Tat ze dū hyita de seka sozo, maxya nae daza senli. Tat ze tat'd naliohav sozosis ïa sansei ïximada nya.
 ***But there are times it is sad, in the long dream. It creates worlds that have no summer, and it shivers under a black sun, and it takes its sad creation for reality.***
 
+彼的悲兮愈持彼毁将。悲持彼的私人任务之分部。吾们干涉不可。
+Tat'd nalio ïa karo ze tat kuëbire. Nalio ze tat'd pиyveit renmu de dimi. Mimen ganxodūzna.
 ***To cure it of sorrow would destroy it. The sorrow is part of its own private task. We cannot interfere.***
 
+时々彼们持梦奥是中之时于，吾持彼们ïxo，彼们持真实的世界兮现实中当建造之其兮说。时々吾持彼们ïxo，彼们的宇宙ïxo之重要性兮说。时々彼们持一时间真正的连接兮不立之时于，吾持兹助力欲，彼们持彼们恐惧的字句兮言之其。
+Ta-tado tatmen ze juynto dephavye zaren de ta za, mi ze tatmen ïxo, tatmen ze zenseibik seka ïa sansei zaren dya kenzo de tos ïa nyup. Ta-tado mi ze tatmen ïxo, tatmen'd üjo ïxo de jonïosei ïa nyup. Ta-tado tatmen ze mizeta zarin zensenbik lenkei ïa dūzlye de ta za, mi ze tas mikoïoze, tatmen ze tatmen kiungubik'd jiju ïa ryan de tos.
 ***Sometimes when they are deep in dreams, I want to tell them, they are building true worlds in reality. Sometimes I want to tell them of their importance to the universe. Sometimes, when they have not made a true connection in a while, I want to help them to speak the word they fear.***
 
+彼持吾们的思想阅。
+Tat ze mimen'd seso lid.
 ***It reads our thoughts.***
 
+时々吾不在乎。时々吾持彼们ïxo兹兮介及期望，尔持兹兮真实ïximada之世界持，【sиkrambиled】和【sиkrambиled】仅々so矣之其，以及彼们持【sиkrambиled】中之【sиkrambиled】so矣之其。彼们持现实之sios小分部兮，彼们的长梦中见及。
+Ta-tado mi dūz ëdota. Ta-tado mi ze tatmen ïxo tas ïa telu kespo, nes ze tas ïa zensei ïximada de seka ze, [sиkrambиled] ö [sиkrambиled] joita so sae de tos, öites tatmen ze [sиkrambиled] zaren de [sиkrambиled] so sae de tos. Tatmen ze sansei de sios lide dimi ïa, tatmen'd delilen juynto zaren betlu.
 ***Sometimes I do not care. Sometimes I wish to tell them, this world you take for truth is merely [scrambled] and [scrambled], I wish to tell them that they are [scrambled] in the [scrambled]. They see so little of reality, in their long dream.***
 
+彼们持此仍游戏。
+Tatmen ze zig sulu ïuqi
 ***And yet they play the game.***
 
 ***But it would be so easy to tell them...***
@@ -180,5 +196,4 @@ So, tat ze zuye vieto gioka do dūzdeitigalu. Siad ve la, tat ze rensen de delil
 
 ***You are the player.***
 
-***Wake up.
-***
+***Wake up.***
