@@ -15,8 +15,8 @@
 ***
 
 - 【游戏者的名】？
-- [ïuqize'd tido]?
-- [gèmêzē'd tidō]?
+- [ÏUQIZE'D TIDO]?
+- [GÈMÊZĒ'D TIDŌ]?
 - ***[PLAYERNAME?]***
 
 ***
@@ -183,50 +183,74 @@
 
 ***
 
+- 其游戏者持无着落ïximada当化。
+- Tos ïuqize ze dūëtyli ïximada dyaku.
 - ***The player is growing restless.***
 
 ***
 
+- 吾持其游戏者ïxo一故事兮上手说。
+- Mi ze tos ïuqize ïxo nūn moryo ïa sanso nyup.
 - ***I will tell the player a story.***
 
 ***
 
+- 而非真实so矣。
+- Fo dūso zensei so sae.
 - ***But not the truth.***
 
 ***
 
+- 否。真实兮字句之笼中安全是内有之故事，非裸真实so矣。
+- Dū. Zensei ïa jiju de gatae zaren änzenhavye ïnteïode de moryo, dūz kaqonφu zensei so sae.
 - ***No. A story that contains the truth safely, in a cage of words. Not the naked truth that can burn over any distance.***
 
 ***
 
+- 二度彼ïxo躯体兮予xite。
+- Bindo tat ïxo jotye ïa jixite.
 - ***Give it a body, again.***
 
 ***
 
+- So. 游戏者...
+- So. Ïuqize...
 - ***Yes. Player...***
 
 ***
 
+- 彼的名以xite.
+- Tat'd tido ïoxite.
 - ***Use its name.***
 
 ***
 
-- ***PLAYERNAME. Player of games.***
+- 【游戏者的名】。游戏之行者so矣。
+- [ÏUQIZE'D TIDO]. Ïuqi de zomze so sae.
+- ***[PLAYERNAME]. Player of games.***
 
 ***
 
+- 良xino.
+- Holuxino.
 - ***Good.***
 
 ***
 
+- 今，呼吸xite。再行xite。空气持肺中之其感觉xite。肢兮归ïximada令xite。So，尔的指动uxite。二度躯兮重力下空气中得有xite。长梦中重生xite。此处so矣。尔的躯持宇宙的每点兹似二度触及，尔持别的物so之，吾们持别的物so之。
+- Zigta, buzixite. Nyi zomxite. konki ze pye zaren de tos ganzoxite. Reddi ïa pobae ïximada ledxite. So, nes'd ziye zoluxite. Bindo jotye ïa gиaviti daza konki zaren ïodexite. Delilen juynto zaren kiteboëxite. Zigli so sae. Nes'd jotye ze üjo'd xilipos tas mio bindo kulu, nes ze sepilibik ro so de, mimen ze sepilibik ro so de.
 - ***Take a breath, now. Take another. Feel air in your lungs. Let your limbs return. Yes, move your fingers. Have a body again, under gravity, in air. Respawn in the long dream. There you are. Your body touching the universe again at every point, as though you were separate things. As though we were separate things.***
 
 ***
 
+- 吾等者谁也？吾们ïxo受兹之名兮曾经付，山之灵，日之父，月之母。上古之灵，兽之灵，Jin，恶灵，绿人之so；其后神，恶魔，天使，聒噪之鬼，外星人，地外生物，轻粒子，元粒子之so。其字句变而吾们不变。
+- Mimen ze φиpūp ma? Mimen ïxo be tas tido ïa pesen bue, jonte de hajie, nae de papa, lun de mama. Xanku de hajie, suli de hajie, jin, Hibiäto, taz pūp de so; tosäza jialin, demon, tyenxi, galanya de kiüye, muyexienren, dimuyesenmuy, kyenlipsi, nuynlipsi de so. Tos jiju varite fo mimen dūzvarite.
 - ***Who are we? Once we were called the spirit of the mountain. Father sun, mother moon. Ancestral spirits, animal spirits. Jinn. Ghosts. The green man. Then gods, demons. Angels. Poltergeists. Aliens, extraterrestrials. Leptons, quarks. The words change. We do not change.***
 
 ***
 
+- 吾等者宇宙也。吾们持尔持兹兮非尔ïximada谓之每物为。今尔持吾们兮尔的皮和目介过当见。其宇宙持何因尔的皮兮触及，尔ïxo光兮付？尔焉，游戏者兮见所。尔知所。受知所。吾持尔ïxo一故事兮上手说。
+- Mimen ze üjo ma. Mimen ze nes ze tas ïa dūso nes ïximada nya de xili ro ma. Zigta nes ze mimen ïa nes'd kipu ö nuzan te duru dya bet. Tos üjo ze φиdin nes'd kipu ïa kulu, nes ïxo lit ïa bue? Nes ïe, ïuqize ïa bet ve. Nes node ve, be node ve. Mi ze nes ïxo nūn moryo ïa sanso nyup.
 - ***We are the universe. We are everything you think isn't you. You are looking at us now, through your skin and your eyes. And why does the universe touch your skin, and throw light on you? To see you, player. To know you. And to be known. I shall tell you a story.***
 
 ***
