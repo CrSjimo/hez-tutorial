@@ -250,11 +250,13 @@
 ***
 
 - 吾等者宇宙也。吾们持尔持兹兮非尔ïximada谓之每物为。今尔持吾们兮尔的皮和目介过当见。其宇宙持何因尔的皮兮触及，尔ïxo光兮付？尔焉，游戏者兮见所。尔知所。受知所。吾持尔ïxo一故事兮上手说。
-- Mimen ze üjo ma. Mimen ze nes ze tas ïa dūso nes ïximada nya de xili ro ma. Zigta nes ze mimen ïa nes'd kipu ö nuzan te duru dya bet. Tos üjo ze φиdin nes'd kipu ïa kulu, nes ïxo lit ïa bue? Nes ïe, ïuqize ïa bet ve. Nes node ve, be node ve. Mi ze nes ïxo nūn moryo ïa sanso nyup.
+- Mimen ze üjo ma. Mimen ze nes ze tas ïa dūso nes ïximada nya de xili ro ma. Zigta nes ze mimen ïa nes'd kipu ö nuzan te duru dya bet. Tos üjo ze φиdin nes'd kipu ïa kulu, nes ïxo lit ïa bue? Nes ïe, ïuqize ïa bet ve. Nes node ve, be node ve. Mi ze nes ïxo nūn moryo ïa sansonyup.
 - ***We are the universe. We are everything you think isn't you. You are looking at us now, through your skin and your eyes. And why does the universe touch your skin, and throw light on you? To see you, player. To know you. And to be known. I shall tell you a story.***
 
 ***
 
+- 久远以前，一游戏者曾经得有。
+- Nayiryio pepe, nūn ïuqize pesen ïode.
 - ***Once upon a time, there was a player.***
 
 ***
