@@ -261,6 +261,8 @@
 
 ***
 
+- 其持尔so矣，【游戏者的名】。
+- Tos ze nes so sae, [Ïuqize'd tido].
 - ***The player was you, PLAYERNAME.***
 
 ***
