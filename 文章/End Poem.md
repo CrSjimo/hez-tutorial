@@ -57,7 +57,7 @@
 ***
 
 - 文字持素晴互面成ïximada持。甚伸缩自如so矣。画面后之现实注视与较低恐惧的so矣。
-- Monji ze nūn subalaxi kejman sen ïximada ze. Hin xinxyujiru so sae. Nyaman äza de sansei juxi zue gendeli kiungubik so sae.
+- Monji ze nūn subalaxi kejman sen ïximada ze. Hin xinxyujiru so sae. Nyaman äza de syensei juxi zue gendeli kiungubik so sae.
 - Chōtōv ze ūn subalaxi intēfèsê sen. Hin fleksnabe. Genlide harōë zue focūs rezenūs aza skrin.
 - ***Words make a wonderful interface. Very flexible. And less terrifying than staring at the reality behind the screen.***
 
@@ -85,7 +85,7 @@
 ***
 
 - 噫，本初互面so矣。百万年间，其仍干活。然而，画面后之现实于，此游戏者持何真实的结构兮创造了？
-- Φu, bonzu kejman so sae. Binnaluya siaüi zarin, tat sulu ganho. Foites, nyaman äza de sansei za, zig ïuqize ze φиo zenseibik kego ïa sozope?
+- Φu, bonzu kejman so sae. Binnaluya siaüi zarin, tat sulu ganho. Foites, nyaman äza de syensei za, zig ïuqize ze φиo zenseibik kego ïa sozope?
 - Hu, orizhinrō intēfèsê sō sā. Binnaluya siaüi zarin, tat sulu zomtè. Fōites, zig gèmêzē kuië hur rezenō konszhuūktūs za rezenrūs aza skrin?
 - ***Hah, the original interface. A million years old, and it still works. But what true structure did this player create, in the reality behind the screen?***
 
@@ -127,7 +127,7 @@
 ***
 
 - 而彼悲之时间兮其长梦中得有。彼持无夏之世界创造，黑日下战栗。彼持彼的悲的创造sis兮现实ïximada谓。
-- Fo tat nalio de tado ïa tos delilen juynto zaren ïode. Tat ze dū hyita de seka sozo, maxya nae daza senli. Tat ze tat'd naliobik sozosis ïa sansei ïximada nya.
+- Fo tat nalio de tado ïa tos delilen juynto zaren ïode. Tat ze dū hyita de seka sozo, maxya nae daza senli. Tat ze tat'd naliobik sozosis ïa syensei ïximada nya.
 - Fō iode tadō de tat ma naliohav, zaren tōs delilen zhuantō. Tat kuië shètō de dū hyita, ōites tat harōëhavio vibrèttè daza mashyrō nā, ōites tat nya tat'd naliobik kuiësis rezenrūs.
 - ***But there are times it is sad, in the long dream. It creates worlds that have no summer, and it shivers under a black sun, and it takes its sad creation for reality.***
 
@@ -141,7 +141,7 @@
 ***
 
 - 时々彼们持梦奥是中之时于，吾持彼们ïxo，彼们持真实的世界兮现实中当建造之其兮说。时々吾持彼们ïxo，彼们的宇宙ïxo之重要性兮说。时々彼们持一时间真正的连接兮不立之时于，吾持兹助力欲，彼们持彼们恐惧的字句兮言之其。
-- Ta-tado tatmen ze juynto dephavye zaren de ta za, mi ze tatmen ïxo, tatmen ze zenseibik seka ïa sansei zaren dya kenzo de tos ïa nyupïoze. Ta-tado mi ze tatmen ïxo, tatmen'd üjo ïxo de jonïosei ïa nyupïoze. Ta-tado tatmen ze mizeta zarin zensenbik lenkei ïa dūzlye de ta za, mi ze tas mikoïoze, tatmen ze tatmen kiungubik'd jiju ïa ryan de tos.
+- Ta-tado tatmen ze juynto dephavye zaren de ta za, mi ze tatmen ïxo, tatmen ze zenseibik seka ïa syensei zaren dya kenzo de tos ïa nyupïoze. Ta-tado mi ze tatmen ïxo, tatmen'd üjo ïxo de jonïosei ïa nyupïoze. Ta-tado tatmen ze mizeta zarin zensenbik lenkei ïa dūzlye de ta za, mi ze tas mikoïoze, tatmen ze tatmen kiungubik'd jiju ïa ryan de tos.
 - Tadō za tadō tatmen ma delidephavio zaren zhuantō, mi nyupïoze tatmen, tatmen dya konszhuūkttè rezenō shètō zaren rezenūs. Tadō za tadō mi nyupïoze tatmen tatmen'd impotans tuy pyrotaneūs. Tadō za tadō tatmen dūzlye rezenō konnektūs zarin mizeta, mi mikōïoze tatmen ryan tatmen harōëbik chōtōv.
 - ***Sometimes when they are deep in dreams, I want to tell them, they are building true worlds in reality. Sometimes I want to tell them of their importance to the universe. Sometimes, when they have not made a true connection in a while, I want to help them to speak the word they fear.***
 
@@ -154,7 +154,7 @@
 ***
 
 - 时々吾不在乎。时々吾持彼们ïxo兹兮介及期望，尔持兹兮真实ïximada之世界持，【sиkrambиled】和【sиkrambиled】仅々so矣之其，以及彼们持【sиkrambиled】中之【sиkrambиled】so矣之其。彼们持现实之sios小分部兮，彼们的长梦中见及。
-- Ta-tado mi dūz ëdota. Ta-tado mi ze tatmen ïxo tas ïa telu kespo, nes ze tas ïa zensei ïximada de seka ze, [sиkrambиled] ö [sиkrambиled] joita so sae de tos, öites tatmen ze [sиkrambиled] zaren de [sиkrambиled] so sae de tos. Tatmen ze sansei de sios lide dimi ïa, tatmen'd delilen juynto zaren betlu.
+- Ta-tado mi dūz ëdota. Ta-tado mi ze tatmen ïxo tas ïa telu kespo, nes ze tas ïa zensei ïximada de seka ze, [sиkrambиled] ö [sиkrambиled] joita so sae de tos, öites tatmen ze [sиkrambиled] zaren de [sиkrambиled] so sae de tos. Tatmen ze syensei de sios lide dimi ïa, tatmen'd delilen juynto zaren betlu.
 - ***Sometimes I do not care. Sometimes I wish to tell them, this world you take for truth is merely [scrambled] and [scrambled], I wish to tell them that they are [scrambled] in the [scrambled]. They see so little of reality, in their long dream.***
 
 ***
