@@ -1,41 +1,73 @@
+What Are Words
+何言
+
+Chris Medina (ㄎウㄖㄧㄙ ㄇㄝㄉㄧㄋㄚ)
+
 Anywhere you are, I am near
-何处ïdeki于 尔与
+何处无论于 尔与
+φīliïdeki za nes zue
 
 Anywhere you go, I'll be there
-何处ïdeki至 吾其处so
+何处无论至 其处于
+φīliïdeki do tos li za
 
 Anytime you whisper my name, you'll see
-何时ïdeki于吾名呤，尔持兹上手见
+何时无论于吾的名呤(ㄪㄝㄖㄌㄧ)ㄩ 当见ㄊ
+φī·taï·deki za mi'd tido ver·liy dáa bet
 
 How every single promise I keep
-兹以吾持每许诺守
+兹以每许诺(·ㄛㄊㄝㄆㄝ)持·ㄝ
+tas ÿ cili ö·tope zeë
 
 Cause what kind of guy would I be
-吾持sios人so之故
+吾持ㄙㄩㄙ人ㄙㄛ之故
+mi ze sys pūp so de náo din
 
 If I was to leave when you need me most
-尔极需之时吾不离
+尔极需(ㄅㄝㄌ)也之时吾不离(ㄌㄝ)ㄖ
+nes zunys belte de ta mi dūz ler
+
 
 What are words
 何言
+φī ënli
+
 If you really don't mean them
-当你完全不知所云
+尔持不知所云(ㄆㄨㄗㄐㄧㄒㄛ·ㄩㄣ)
+nes ze puzjicoÿn
+
 When you say them
-说出它们的时候
+其曰·ㄝ之时于
+tos naë de ta za
+
 What are words
-你的话到底算什么
+何言
+φī ënli
+
 If they're only for good times
-如果这只是浮云般的美好
+其持南柯一梦(ㄋㄚㄣㄎㄚ·ㄧㄗㄇㄩㄣ)
+tos ze nankaïzmyn
+
 Then they don't
-却与瞬间破灭掉
+而灭(ㄎㄚㄌㄝ)ㄖ
+fo kaler
+
 When it's love
-当爱至情浓处时
+爱(·ㄞ)出也
+ä́ ē̈nte
+
 Yeah, you say them out-loud those words
-你大声喊出自己的心声
+尔持伊言以告ㄩ
+nes ze nag ënli ÿ symponzyÿ
+
 They never go away
-那些话，永远都不会褪色
+其持不灭(ㄆㄨㄗㄇㄝㄗ)恒ㄩㄙㄙㄛ
+tos ze puzmez xamays so
+
 They live on, even when we're gone
-即使我们都离去了，它们会一直存在，直到海枯石烂。
+继续(ㄍㄟㄗㄩㄏ)存在(ㄗㄛㄋㄗㄞ) 吾等去(·ㄚㄉㄛ)ㄩㄙㄝㄚㄉ虽
+kézyx zonzá mimen ädoy sead tedo
+
 And I know an angel was sent just for me
 我知道，你是上苍赠予我的天使
 And I know I'm meant to be where I am
